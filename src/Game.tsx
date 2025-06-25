@@ -1,13 +1,10 @@
 import Board from "./Board";
 
-function Game(){
+function Game() {
 
-
-    return(
-        <>
-        <Board/>
-        </>
-    );
+  return (
+      <Board />
+  );
 }
 
 export default Game;
